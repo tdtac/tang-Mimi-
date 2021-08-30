@@ -15,7 +15,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì thương  <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'qua dịch a dẫn công chúa đi ăn bún bò, ún tà tùa nha công chúa.',
+    messDesc: 'qua dịch a dẫn công chúa đi ăn bún bò, ún tà tưa rồi "ăn kem" nha công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/dungtractran' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
