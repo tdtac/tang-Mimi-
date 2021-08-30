@@ -1,6 +1,7 @@
 const CONFIG = {
     introTitle: 'Cục vàng mì mì ơiiiii!',
     introDesc: `
+    CHÚC MỪNG SINH THẦN CỦA CÔNG CHÚA MAE MAE 
     Ngoài trời thì dịch và mưa,
     Tay anh thì ấm đợi hết dịch a nắm tay em,  
     A trân trọng mọi thứ về em từ nụ cười tới mái tóc,
