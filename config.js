@@ -1,11 +1,12 @@
 const CONFIG = {
     introTitle: 'Cục vàng mì mì ơiiiii!',
-    introDesc: `Ngoài trời thì dịch và mưa 
-    Tay anh thì ấm đợi hết dịch a nắm tay em  
-    A trân trọng mọi thứ về em từ nụ cười tới mái tóc
-    Nên việc e cần làm là luôn cười thay vì khóc 
-    A viết nhạc a k viết văn nên nên a hủm giống Tô Hoài 
-    iu e nhớ nhớ dài đêm thì có gì saiiiiiiiiiii`,
+    introDesc: `CHÚC MỪNG SINH THẦN CỦA CÔNG CHÚA MAE MAE
+    Ngoài trời thì dịch và mưa,
+    Tay anh thì ấm đợi hết dịch a nắm tay em,  
+    A trân trọng mọi thứ về em từ nụ cười tới mái tóc,
+    Nên việc e cần làm là luôn cười thay vì khóc,
+    A viết nhạc a k viết văn nên nên a hủm giống Tô Hoài,
+    Iu e nhớ nhớ dài đêm thì có gì saiiiiiiiiiii`,
     btnIntro: 'YÊU EMMMMMMM',
     title: 'Chúc mừng sinh nhật mì mì của a 😙',
     desc: 'A thương bé càng lúc càng nhiêu ',
