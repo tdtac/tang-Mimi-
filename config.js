@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Cục vàng mì mì ơiiiii!',
     introDesc: `
-    CHÚC MỪNG SINH THẦN CỦA CÔNG CHÚA MAE MAE
     Ngoài trời thì dịch và mưa,
     Tay anh thì ấm đợi hết dịch a nắm tay em,  
     A trân trọng mọi thứ về em từ nụ cười tới mái tóc,
@@ -13,7 +12,7 @@ const CONFIG = {
     desc: 'A thương bé càng lúc càng nhiêu ',
     btnYes: 'thương a quài e nhaaa <33',
     btnNo: 'Không nha, Anh trai :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'CHÚC MỪNG SINH THẦN CỦA CÔNG CHÚA MAE MAE <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì thương  <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
@@ -21,4 +20,5 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/dungtractran' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+    
     
