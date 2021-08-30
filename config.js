@@ -11,7 +11,7 @@ const CONFIG = {
     title: 'Chúc mừng sinh nhật mì mì của a 😙',
     desc: 'A thương bé càng lúc càng nhiêu ',
     btnYes: 'thương a quài e nhaaa <33',
-    btnNo: 'Không nha, Anh trai :3',
+    btnNo: 'Không nha, Em chỉ xem a là anh trai :3',
     question:'CHÚC MỪNG BAE LUÔN LUÔN SINH ĐẸP NHỚ TỚI ANH QUÀI QUAI HIIIII <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì thương  <33333333',
