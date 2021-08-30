@@ -20,6 +20,3 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/dungtractran' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
-    
-    
-    
