@@ -12,7 +12,7 @@ const CONFIG = {
     desc: 'A thương bé càng lúc càng nhiêu ',
     btnYes: 'thương a quài e nhaaa <33',
     btnNo: 'Không nha, Anh trai :3',
-    question:'CHÚC MỪNG SINH THẦN CỦA CÔNG CHÚA MAE MAE <3',
+    question:'CHÚC MỪNG BAE LUÔN LUÔN SINH ĐẸP NHỚ TỚI ANH QUÀI QUAI HIIIII <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì thương  <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
